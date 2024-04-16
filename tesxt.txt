@@ -1,0 +1,11 @@
+Notes:
+
+1.  What do we determine upper class?  > $149,132
+
+(reference Carolina email 4/15)
+
+2.  Define accessibility (range from home)?
+
+3.  Type of charging station station (note: we would remove private, dates outside of 2020 - 2021).
+
+4.  04 Data Preparation -> columns manipulation, Day 2 03 - exploring data / 05 / 06,   
