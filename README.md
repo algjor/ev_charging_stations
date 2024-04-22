@@ -12,18 +12,28 @@ a - EV charging station [EV]
 b - income data [CF]
 
 (1) - Import panda libraries
+
 (2a) - Import, read, write data frame from each csv
+
 (2b) - Import, read, write data frame from each csv
+
 (3a) - Clean data (sort, drop empty rows,) for each data set
+
 (3b) - Clean data (sort, drop empty rows,) for each data set
+
 (4a) - View unique values (drop columns not necessary) -> create the new dataframe for the columns to keep
     => Unique values analysis (utilities, parking garage, airport, shopping mall, shopping center)
+
 (4b) - View unique values (drop columns not necessary) -> create the new dataframe for the columns to keep
+
 (5a) - Sort and organize new dataframe by zip code
+
 (5b) - Sort and organize new dataframe by income
+
 (6a) - List and view (zip, income,) and use print statements:
     => Unique values of state names then get list of states with most chargers
     => 
+
 (6b) - List and view (zip, income,) and use print statements:
     => Zip with highest income (view top 10)
     => Show a list of zip codes that have incomes > $149K
